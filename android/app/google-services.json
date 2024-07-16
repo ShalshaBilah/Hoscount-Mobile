@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560496047485",
+    "project_id": "myflutter-new-project-72c17",
+    "storage_bucket": "myflutter-new-project-72c17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560496047485:android:36230f9737651fe63bc814",
+        "android_client_info": {
+          "package_name": "com.example.hoscountmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuzHh30_IFEDEhgWp_pj0D1nyjuu5d_6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
